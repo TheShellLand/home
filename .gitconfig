@@ -1,0 +1,8 @@
+[core]
+	editor = vim
+	pager = less -r
+	autocrlf = input
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = false
